@@ -172,3 +172,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 lerobot/common/robot_devices/robots/configs.py
+lerobot/common/robot_devices/robots/configs.py
